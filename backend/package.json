@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^0.21.4",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-cors": "^0.0.3",
+    "express-session": "^1.17.2",
+    "mathjs": "^9.4.5",
+    "morgan": "^1.10.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "pg": "^8.7.1",
+    "pg-connection-string": "^2.5.0",
+    "uuid": "^8.3.2"
+  }
+}
